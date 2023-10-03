@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-19T23:26:00 IST" name="Suite" finished-at="2023-09-19T23:27:29 IST" duration-ms="89167">
+    <groups>
+    </groups>
+    <test started-at="2023-09-19T23:26:00 IST" name="Test" finished-at="2023-09-19T23:27:29 IST" duration-ms="89167">
+      <class name="org.planisphrer.TestingClassEdge">
+        <test-method is-config="true" signature="before()[pri:0, instance:org.planisphrer.TestingClassEdge@573906eb]" started-at="2023-09-19T23:26:00 IST" name="before" finished-at="2023-09-19T23:26:00 IST" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="getBrowser(java.lang.String)[pri:0, instance:org.planisphrer.TestingClassEdge@573906eb]" started-at="2023-09-19T23:26:00 IST" name="getBrowser" finished-at="2023-09-19T23:26:06 IST" duration-ms="6138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method signature="urlLanunched()[pri:1, instance:org.planisphrer.TestingClassEdge@573906eb]" started-at="2023-09-19T23:26:06 IST" name="urlLanunched" finished-at="2023-09-19T23:26:10 IST" duration-ms="4159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLanunched -->
+        <test-method signature="loginDataEntering()[pri:2, instance:org.planisphrer.TestingClassEdge@573906eb]" started-at="2023-09-19T23:26:10 IST" name="loginDataEntering" finished-at="2023-09-19T23:26:28 IST" duration-ms="17318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDataEntering -->
+        <test-method signature="reserveRoom()[pri:3, instance:org.planisphrer.TestingClassEdge@573906eb]" started-at="2023-09-19T23:26:28 IST" name="reserveRoom" finished-at="2023-09-19T23:26:41 IST" duration-ms="13377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reserveRoom -->
+        <test-method signature="reserveConfirmation(java.lang.String)[pri:4, instance:org.planisphrer.TestingClassEdge@573906eb]" started-at="2023-09-19T23:26:41 IST" name="reserveConfirmation" finished-at="2023-09-19T23:27:28 IST" duration-ms="47092" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[09/30/2023]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reserveConfirmation -->
+        <test-method is-config="true" signature="after()[pri:0, instance:org.planisphrer.TestingClassEdge@573906eb]" started-at="2023-09-19T23:27:28 IST" name="after" finished-at="2023-09-19T23:27:29 IST" duration-ms="691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- org.planisphrer.TestingClassEdge -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
